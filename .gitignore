@@ -1,0 +1,13 @@
+# Arquivos gerados pelo NetBeans
+/build/
+/dist/
+
+# Banco de dados local
+/daycare.db
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações privadas do NetBeans
+/nbproject/private/
